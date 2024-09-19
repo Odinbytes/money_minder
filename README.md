@@ -1,8 +1,4 @@
-#Money_minder Here's a template for your GitHub **README.md** file for the **Expense Tracker API** project. Feel free to customize it as you see fit!
-
----
-
-# **Expense Tracker API**
+# **Money_minder API**
 
 This is a RESTful API that allows users to track their income and expenses over time. The API provides CRUD operations for managing income and expenses, as well as features for generating monthly and yearly spending reports and setting budget limits. This project can be extended into a full-stack application with data visualization.
 
