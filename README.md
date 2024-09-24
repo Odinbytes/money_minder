@@ -114,9 +114,6 @@ d is exceeded.
 - **GET /budget**
   - Get the current budget information.
   
-## **Contributing**
-Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bugs.
-
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 Feel free to adjust the details according to your specific setup (Node.js vs. Flask, database, etc.). If you need more detailed sections (like deployment or authentication), let me know!
