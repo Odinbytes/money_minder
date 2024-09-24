@@ -114,7 +114,6 @@ d is exceeded.
 - **GET /budget**
   - Get the current budget information.
  
-  - 
 ## **Contributing**
 Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bugs.
 
