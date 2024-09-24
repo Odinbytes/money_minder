@@ -90,4 +90,34 @@ d is exceeded.
 - **DELETE /income/:id**
   - Delete a specific income entry.
 
+### **Expenses**
+- **POST /expenses**
+  - Add a new expense entry.
+- **GET /expenses**
+  - Retrieve all expense entries.
+- **GET /expenses/:id**
+  - Retrieve a specific expense entry.
+- **PUT /expenses/:id**
+  - Update a specific expense entry.
+- **DELETE /expenses/:id**
+  - Delete a specific expense entry.
+
+### **Reports**
+- **GET /reports/monthly/:month**
+  - Retrieve all expenses and total for the specified month.
+- **GET /reports/yearly/:year**
+  - Retrieve all expenses and total for the specified year.
+
+### **Budget (Optional)**
+- **POST /budget**
+  - Set or update a monthly budget.
+- **GET /budget**
+  - Get the current budget information.
+  
+## **Contributing**
+Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bugs.
+
+## **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Feel free to adjust the details according to your specific setup (Node.js vs. Flask, database, etc.). If you need more detailed sections (like deployment or authentication), let me know!
 
