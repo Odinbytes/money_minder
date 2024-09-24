@@ -113,6 +113,11 @@ d is exceeded.
   - Set or update a monthly budget.
 - **GET /budget**
   - Get the current budget information.
+ 
+  - 
+## **Contributing**
+Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bugs.
+
   
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
