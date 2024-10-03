@@ -1,6 +1,6 @@
 # **Money_minder API**
 
-This is a RESTful API that allows users to track their income and expenses over time(daily, weekly, monthly, quarterly, . The App provides CRUD operations for managing income and expenses, as well as features for generating monthly and yearly spending reports and setting budget limits. This project is extended into a full-stack application with data visualization.
+This is a RESTful API that allows users to track their income and expenses over time(daily, weekly, monthly, quarterly, or annually. The App provides CRUD operations for managing income and expenses, as well as features for generating monthly and yearly spending reports and setting budget limits. This project is extended into a full-stack application with data visualization.
 
 ## **Features**
 - Create, Read, Update, Delete (CRUD) operations for income and expenses.
