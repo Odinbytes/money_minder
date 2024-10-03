@@ -5,7 +5,7 @@ This is a RESTful API that allows users to track their income and expenses over 
 ## **Features**
 - Create, Read, Update, Delete (CRUD) operations for income and expenses.
 - Generate reports on monthly and yearly spending.
-- Set budget limits and receive alerts when the budget threshold is reached# 
+- Set budget limits and receive alerts when the budget threshold is reached.
 
 This is a RESTful API that allows users to track their income and expenses over time. The API provides CRUD operations for managing income and expenses, as well as features for generating monthly and yearly spending reports and setting budget limits. This project is extended into a full-stack application with data visualization.
 
